@@ -21,7 +21,7 @@ class Config:
     N_PCA_COMPONENTS = 3
 
     TEST_SIZE = 0.10
-    N_REPEATS = 20
+    N_REPEATS = 5
     N_FOLDS = 5
     SEED = 42
 
